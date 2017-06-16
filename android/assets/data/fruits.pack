@@ -1,0 +1,1807 @@
+
+fruits.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+FruitA-1
+  rotate: false
+  xy: 1, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-10
+  rotate: false
+  xy: 1, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-11
+  rotate: false
+  xy: 131, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-12
+  rotate: false
+  xy: 1, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-13
+  rotate: false
+  xy: 131, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-14
+  rotate: false
+  xy: 261, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-15
+  rotate: false
+  xy: 1, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-16
+  rotate: false
+  xy: 131, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-2
+  rotate: false
+  xy: 261, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-3
+  rotate: false
+  xy: 391, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-4
+  rotate: false
+  xy: 1, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-5
+  rotate: false
+  xy: 131, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-6
+  rotate: false
+  xy: 261, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-7
+  rotate: false
+  xy: 391, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-8
+  rotate: false
+  xy: 521, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitA-9
+  rotate: false
+  xy: 1, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-1
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-2
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-3
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-1
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-2
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-3
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-1
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-2
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-1
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-2
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-3
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-10
+  rotate: false
+  xy: 261, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-11
+  rotate: false
+  xy: 391, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-12
+  rotate: false
+  xy: 521, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-13
+  rotate: false
+  xy: 651, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-14
+  rotate: false
+  xy: 1, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-15
+  rotate: false
+  xy: 131, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-16
+  rotate: false
+  xy: 261, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-4
+  rotate: false
+  xy: 391, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-5
+  rotate: false
+  xy: 521, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-6
+  rotate: false
+  xy: 651, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-7
+  rotate: false
+  xy: 781, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-8
+  rotate: false
+  xy: 131, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitASpots-9
+  rotate: false
+  xy: 261, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-1
+  rotate: false
+  xy: 391, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-10
+  rotate: false
+  xy: 521, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-11
+  rotate: false
+  xy: 651, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-12
+  rotate: false
+  xy: 781, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-13
+  rotate: false
+  xy: 911, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-14
+  rotate: false
+  xy: 261, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-15
+  rotate: false
+  xy: 391, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-16
+  rotate: false
+  xy: 521, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-2
+  rotate: false
+  xy: 651, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-3
+  rotate: false
+  xy: 781, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-4
+  rotate: false
+  xy: 911, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-5
+  rotate: false
+  xy: 1041, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-6
+  rotate: false
+  xy: 391, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-7
+  rotate: false
+  xy: 521, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-8
+  rotate: false
+  xy: 651, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATop-9
+  rotate: false
+  xy: 781, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-1
+  rotate: false
+  xy: 911, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-10
+  rotate: false
+  xy: 1041, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-11
+  rotate: false
+  xy: 1171, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-12
+  rotate: false
+  xy: 521, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-13
+  rotate: false
+  xy: 651, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-14
+  rotate: false
+  xy: 781, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-15
+  rotate: false
+  xy: 911, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-16
+  rotate: false
+  xy: 1041, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-2
+  rotate: false
+  xy: 1171, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-3
+  rotate: false
+  xy: 1301, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-4
+  rotate: false
+  xy: 651, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-5
+  rotate: false
+  xy: 781, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-6
+  rotate: false
+  xy: 911, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-7
+  rotate: false
+  xy: 1041, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-8
+  rotate: false
+  xy: 1171, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitATopOver-9
+  rotate: false
+  xy: 1301, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-1
+  rotate: false
+  xy: 1431, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-10
+  rotate: false
+  xy: 781, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-11
+  rotate: false
+  xy: 911, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-12
+  rotate: false
+  xy: 1041, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-13
+  rotate: false
+  xy: 1171, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-14
+  rotate: false
+  xy: 1301, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-15
+  rotate: false
+  xy: 1431, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-16
+  rotate: false
+  xy: 1561, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-2
+  rotate: false
+  xy: 911, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-3
+  rotate: false
+  xy: 1041, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-4
+  rotate: false
+  xy: 1171, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-5
+  rotate: false
+  xy: 1301, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-6
+  rotate: false
+  xy: 1431, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-7
+  rotate: false
+  xy: 1561, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-8
+  rotate: false
+  xy: 1691, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitB-9
+  rotate: false
+  xy: 1041, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-10
+  rotate: false
+  xy: 1171, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-11
+  rotate: false
+  xy: 1301, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-12
+  rotate: false
+  xy: 1431, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-13
+  rotate: false
+  xy: 1561, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-14
+  rotate: false
+  xy: 1691, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-15
+  rotate: false
+  xy: 1821, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-16
+  rotate: false
+  xy: 1171, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-4
+  rotate: false
+  xy: 1301, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-5
+  rotate: false
+  xy: 1431, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-6
+  rotate: false
+  xy: 1561, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-7
+  rotate: false
+  xy: 1691, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-8
+  rotate: false
+  xy: 1821, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBSpots-9
+  rotate: false
+  xy: 1301, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-1
+  rotate: false
+  xy: 1431, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-10
+  rotate: false
+  xy: 1561, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-11
+  rotate: false
+  xy: 1691, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-12
+  rotate: false
+  xy: 1821, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-13
+  rotate: false
+  xy: 1431, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-14
+  rotate: false
+  xy: 1561, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-15
+  rotate: false
+  xy: 1691, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-16
+  rotate: false
+  xy: 1821, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-2
+  rotate: false
+  xy: 1561, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-3
+  rotate: false
+  xy: 1691, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-4
+  rotate: false
+  xy: 1821, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-5
+  rotate: false
+  xy: 1691, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-6
+  rotate: false
+  xy: 1821, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-7
+  rotate: false
+  xy: 1821, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+
+fruits2.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+FruitBTop-8
+  rotate: false
+  xy: 1, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTop-9
+  rotate: false
+  xy: 1, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-1
+  rotate: false
+  xy: 131, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-10
+  rotate: false
+  xy: 1, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-11
+  rotate: false
+  xy: 131, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-12
+  rotate: false
+  xy: 261, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-13
+  rotate: false
+  xy: 1, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-14
+  rotate: false
+  xy: 131, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-15
+  rotate: false
+  xy: 261, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-16
+  rotate: false
+  xy: 391, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-2
+  rotate: false
+  xy: 1, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-3
+  rotate: false
+  xy: 131, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-4
+  rotate: false
+  xy: 261, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-5
+  rotate: false
+  xy: 391, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-6
+  rotate: false
+  xy: 521, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-7
+  rotate: false
+  xy: 1, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-8
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitBTopOver-9
+  rotate: false
+  xy: 261, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-1
+  rotate: false
+  xy: 391, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-10
+  rotate: false
+  xy: 521, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-11
+  rotate: false
+  xy: 651, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-12
+  rotate: false
+  xy: 1, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-13
+  rotate: false
+  xy: 131, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-14
+  rotate: false
+  xy: 261, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-15
+  rotate: false
+  xy: 391, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-16
+  rotate: false
+  xy: 521, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-2
+  rotate: false
+  xy: 651, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-3
+  rotate: false
+  xy: 781, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-4
+  rotate: false
+  xy: 131, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-5
+  rotate: false
+  xy: 261, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-6
+  rotate: false
+  xy: 391, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-7
+  rotate: false
+  xy: 521, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-8
+  rotate: false
+  xy: 651, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitC-9
+  rotate: false
+  xy: 781, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-10
+  rotate: false
+  xy: 911, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-11
+  rotate: false
+  xy: 261, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-12
+  rotate: false
+  xy: 391, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-13
+  rotate: false
+  xy: 521, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-14
+  rotate: false
+  xy: 651, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-15
+  rotate: false
+  xy: 781, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-16
+  rotate: false
+  xy: 911, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-3
+  rotate: false
+  xy: 1041, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-4
+  rotate: false
+  xy: 391, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-5
+  rotate: false
+  xy: 521, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-6
+  rotate: false
+  xy: 651, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-7
+  rotate: false
+  xy: 781, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-8
+  rotate: false
+  xy: 911, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCSpots-9
+  rotate: false
+  xy: 1041, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-1
+  rotate: false
+  xy: 1171, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-10
+  rotate: false
+  xy: 521, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-11
+  rotate: false
+  xy: 651, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-12
+  rotate: false
+  xy: 781, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-13
+  rotate: false
+  xy: 911, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-14
+  rotate: false
+  xy: 1041, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-15
+  rotate: false
+  xy: 1171, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-16
+  rotate: false
+  xy: 1301, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-2
+  rotate: false
+  xy: 651, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-3
+  rotate: false
+  xy: 781, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-4
+  rotate: false
+  xy: 911, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-5
+  rotate: false
+  xy: 1041, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-6
+  rotate: false
+  xy: 1171, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-7
+  rotate: false
+  xy: 1301, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-8
+  rotate: false
+  xy: 1431, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTop-9
+  rotate: false
+  xy: 781, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-1
+  rotate: false
+  xy: 911, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-10
+  rotate: false
+  xy: 1041, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-11
+  rotate: false
+  xy: 1171, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-12
+  rotate: false
+  xy: 1301, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-13
+  rotate: false
+  xy: 1431, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-14
+  rotate: false
+  xy: 1561, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-15
+  rotate: false
+  xy: 911, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-16
+  rotate: false
+  xy: 1041, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-2
+  rotate: false
+  xy: 1171, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-3
+  rotate: false
+  xy: 1301, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-4
+  rotate: false
+  xy: 1431, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-5
+  rotate: false
+  xy: 1561, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-6
+  rotate: false
+  xy: 1691, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-7
+  rotate: false
+  xy: 1041, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-8
+  rotate: false
+  xy: 1171, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitCTopOver-9
+  rotate: false
+  xy: 1301, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-1
+  rotate: false
+  xy: 1431, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-10
+  rotate: false
+  xy: 1561, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-11
+  rotate: false
+  xy: 1691, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-12
+  rotate: false
+  xy: 1821, 1549
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-13
+  rotate: false
+  xy: 1171, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-14
+  rotate: false
+  xy: 1301, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-15
+  rotate: false
+  xy: 1431, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-16
+  rotate: false
+  xy: 1561, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-2
+  rotate: false
+  xy: 1691, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-3
+  rotate: false
+  xy: 1821, 1291
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-4
+  rotate: false
+  xy: 1301, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-5
+  rotate: false
+  xy: 1431, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-6
+  rotate: false
+  xy: 1561, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-7
+  rotate: false
+  xy: 1691, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-8
+  rotate: false
+  xy: 1821, 1033
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitD-9
+  rotate: false
+  xy: 1431, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-10
+  rotate: false
+  xy: 1561, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-11
+  rotate: false
+  xy: 1691, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-12
+  rotate: false
+  xy: 1821, 775
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-13
+  rotate: false
+  xy: 1561, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-14
+  rotate: false
+  xy: 1691, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-15
+  rotate: false
+  xy: 1821, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-16
+  rotate: false
+  xy: 1691, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-4
+  rotate: false
+  xy: 1821, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-5
+  rotate: false
+  xy: 1821, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+
+fruits3.png
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+FruitDSpots-6
+  rotate: false
+  xy: 1, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-7
+  rotate: false
+  xy: 1, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-8
+  rotate: false
+  xy: 131, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDSpots-9
+  rotate: false
+  xy: 1, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-1
+  rotate: false
+  xy: 131, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-10
+  rotate: false
+  xy: 261, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-11
+  rotate: false
+  xy: 131, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-12
+  rotate: false
+  xy: 261, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-13
+  rotate: false
+  xy: 391, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-14
+  rotate: false
+  xy: 261, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-15
+  rotate: false
+  xy: 391, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-16
+  rotate: false
+  xy: 521, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-2
+  rotate: false
+  xy: 391, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-3
+  rotate: false
+  xy: 521, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-4
+  rotate: false
+  xy: 651, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-5
+  rotate: false
+  xy: 521, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-6
+  rotate: false
+  xy: 651, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-7
+  rotate: false
+  xy: 781, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-8
+  rotate: false
+  xy: 651, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTop-9
+  rotate: false
+  xy: 781, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-1
+  rotate: false
+  xy: 911, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-10
+  rotate: false
+  xy: 781, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-11
+  rotate: false
+  xy: 911, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-12
+  rotate: false
+  xy: 1041, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-13
+  rotate: false
+  xy: 911, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-14
+  rotate: false
+  xy: 1041, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-15
+  rotate: false
+  xy: 1171, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-16
+  rotate: false
+  xy: 1041, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-2
+  rotate: false
+  xy: 1171, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-3
+  rotate: false
+  xy: 1301, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-4
+  rotate: false
+  xy: 1171, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-5
+  rotate: false
+  xy: 1301, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-6
+  rotate: false
+  xy: 1431, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-7
+  rotate: false
+  xy: 1301, 1
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-8
+  rotate: false
+  xy: 1431, 259
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+FruitDTopOver-9
+  rotate: false
+  xy: 1561, 517
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1

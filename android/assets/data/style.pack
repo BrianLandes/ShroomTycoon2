@@ -1,0 +1,1017 @@
+
+style.png
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+Outline
+  rotate: false
+  xy: 1, 1403
+  size: 1023, 639
+  orig: 1024, 650
+  offset: 0, 11
+  index: 0
+Basic
+  rotate: false
+  xy: 1, 814
+  size: 1020, 587
+  orig: 1024, 600
+  offset: 0, 13
+  index: 0
+BasicSmall
+  rotate: false
+  xy: 1026, 1991
+  size: 510, 51
+  orig: 512, 512
+  offset: 0, 461
+  index: -1
+CashIconAb
+  rotate: false
+  xy: 1, 612
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CoinIconAb
+  rotate: false
+  xy: 1026, 1789
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+StashIconAb
+  rotate: false
+  xy: 1, 410
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+CoinSaleIcon
+  rotate: false
+  xy: 203, 623
+  size: 189, 189
+  orig: 200, 200
+  offset: 8, 3
+  index: -1
+PressureCooker
+  rotate: false
+  xy: 1026, 1606
+  size: 193, 181
+  orig: 200, 200
+  offset: 3, 9
+  index: -1
+AlertIcon
+  rotate: false
+  xy: 1228, 1807
+  size: 182, 182
+  orig: 200, 200
+  offset: 9, 13
+  index: -1
+AlertNoneIcon
+  rotate: false
+  xy: 1, 226
+  size: 182, 182
+  orig: 200, 200
+  offset: 9, 13
+  index: -1
+AddDealerIcon
+  rotate: false
+  xy: 203, 440
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+CollectIcon
+  rotate: false
+  xy: 394, 631
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+CookIcon
+  rotate: false
+  xy: 1026, 1423
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+CustomStrainIcon
+  rotate: false
+  xy: 1, 43
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+DownloadStrainIcon
+  rotate: false
+  xy: 577, 631
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+EditDescIcon
+  rotate: false
+  xy: 760, 631
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+CoinIcon
+  rotate: false
+  xy: 1412, 1800
+  size: 159, 189
+  orig: 200, 200
+  offset: 8, 3
+  index: -1
+FastForwardIcon
+  rotate: false
+  xy: 1573, 1861
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+FrontIcon
+  rotate: false
+  xy: 1756, 1861
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+ScaleBottom
+  rotate: false
+  xy: 1573, 1809
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+GrainJarIcon
+  rotate: false
+  xy: 1939, 1864
+  size: 99, 178
+  orig: 200, 200
+  offset: 52, 8
+  index: -1
+Fridge
+  rotate: false
+  xy: 943, 627
+  size: 116, 185
+  orig: 200, 200
+  offset: 36, 7
+  index: -1
+DealersIcon
+  rotate: false
+  xy: 203, 318
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+SelectBoxDisabled
+  rotate: false
+  xy: 185, 216
+  size: 200, 100
+  split: 9, 50, 9, 9
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+G2gIcon
+  rotate: false
+  xy: 184, 33
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+SelectBoxDown
+  rotate: false
+  xy: 1573, 1707
+  size: 200, 100
+  split: 9, 50, 9, 9
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+SelectBoxOver
+  rotate: false
+  xy: 394, 529
+  size: 200, 100
+  split: 9, 50, 9, 9
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+SelectBoxUp
+  rotate: false
+  xy: 596, 529
+  size: 200, 100
+  split: 9, 50, 9, 9
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+HarvestIcon
+  rotate: false
+  xy: 396, 346
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+InnoculationIcon
+  rotate: false
+  xy: 579, 346
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+FruitingChamber
+  rotate: false
+  xy: 798, 442
+  size: 133, 187
+  orig: 200, 200
+  offset: 21, 4
+  index: -1
+games_achievements_green
+  rotate: false
+  xy: 933, 438
+  size: 128, 187
+  orig: 200, 200
+  offset: 36, 3
+  index: -1
+SliderBackground
+  rotate: false
+  xy: 396, 284
+  size: 200, 60
+  orig: 200, 60
+  offset: 0, 0
+  index: -1
+Dehydrator
+  rotate: false
+  xy: 387, 168
+  size: 197, 114
+  orig: 200, 200
+  offset: 1, 34
+  index: -1
+Incubator
+  rotate: false
+  xy: 367, 6
+  size: 191, 160
+  orig: 200, 200
+  offset: 5, 22
+  index: -1
+StashIcon
+  rotate: false
+  xy: 762, 261
+  size: 166, 179
+  orig: 200, 200
+  offset: 12, 8
+  index: -1
+BatchIcon
+  rotate: false
+  xy: 930, 256
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+DhyIcon
+  rotate: false
+  xy: 1026, 1301
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+Jar2CasingIcon
+  rotate: false
+  xy: 1023, 1118
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+MaintainIcon
+  rotate: false
+  xy: 1023, 935
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+games_savedgames_green
+  rotate: false
+  xy: 1023, 816
+  size: 174, 117
+  orig: 200, 200
+  offset: 13, 44
+  index: -1
+MoveCameraIcon
+  rotate: false
+  xy: 1061, 633
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+MoveIcon
+  rotate: false
+  xy: 1063, 450
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+PrintIcon
+  rotate: false
+  xy: 1112, 267
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+SoakIcon
+  rotate: false
+  xy: 1209, 1423
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+ThumbsUpIcon
+  rotate: false
+  xy: 1221, 1606
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+CasingIcon
+  rotate: false
+  xy: 1219, 1241
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+TrashIcon
+  rotate: false
+  xy: 1206, 1058
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+games_controller
+  rotate: false
+  xy: 1206, 921
+  size: 190, 135
+  orig: 200, 200
+  offset: 5, 29
+  index: -1
+SubJarIcon
+  rotate: false
+  xy: 1404, 1620
+  size: 99, 178
+  orig: 200, 200
+  offset: 52, 8
+  index: -1
+UploadIcon
+  rotate: false
+  xy: 1244, 738
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+WeighIcon
+  rotate: false
+  xy: 1246, 555
+  size: 181, 181
+  orig: 200, 200
+  offset: 10, 9
+  index: -1
+FcIcon
+  rotate: false
+  xy: 1505, 1585
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+DealerIcon
+  rotate: false
+  xy: 1295, 373
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+FridgeIcon
+  rotate: false
+  xy: 1295, 251
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+GbIcon
+  rotate: false
+  xy: 1392, 1463
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+GloveBoxIcon
+  rotate: false
+  xy: 1401, 1281
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+IncIcon
+  rotate: false
+  xy: 1585, 1463
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+JarIcon
+  rotate: false
+  xy: 1583, 1281
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+LabIcon
+  rotate: false
+  xy: 1698, 1585
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+AlertInfoDown
+  rotate: false
+  xy: 1775, 1707
+  size: 100, 100
+  split: 12, 12, 11, 11
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LevelUpIcon
+  rotate: false
+  xy: 1778, 1403
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+OptionsIcon
+  rotate: false
+  xy: 1765, 1281
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+PcIcon
+  rotate: false
+  xy: 1401, 1159
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+PlayerIcon
+  rotate: false
+  xy: 1594, 1159
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+ObjectiveCompleteIcon
+  rotate: false
+  xy: 1787, 1099
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+ObjectiveIcon
+  rotate: false
+  xy: 1398, 977
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+SideJobIcon
+  rotate: false
+  xy: 1580, 977
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+SpeechIcon
+  rotate: false
+  xy: 1427, 795
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+SyringeIcon
+  rotate: false
+  xy: 1609, 795
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+ResourcesIcon
+  rotate: false
+  xy: 1762, 977
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+SamIcon
+  rotate: false
+  xy: 1791, 855
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+StrainsOnlineIcon
+  rotate: false
+  xy: 1429, 673
+  size: 191, 120
+  orig: 200, 120
+  offset: 4, 0
+  index: -1
+SyringesIcon
+  rotate: false
+  xy: 1622, 621
+  size: 100, 172
+  orig: 200, 200
+  offset: 33, 15
+  index: -1
+AlertInfoOver
+  rotate: false
+  xy: 1429, 571
+  size: 100, 100
+  split: 12, 12, 11, 11
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+RelocateJar
+  rotate: false
+  xy: 1199, 842
+  size: 43, 77
+  orig: 100, 100
+  offset: 29, 11
+  index: -1
+HomeIcon
+  rotate: false
+  xy: 1531, 575
+  size: 88, 96
+  orig: 100, 100
+  offset: 3, 1
+  index: -1
+OrangeButtonDisabled
+  rotate: false
+  xy: 598, 288
+  size: 128, 56
+  split: 5, 6, 7, 7
+  orig: 128, 56
+  offset: 0, 0
+  index: -1
+AlertInfoUp
+  rotate: false
+  xy: 1724, 693
+  size: 100, 100
+  split: 12, 12, 11, 11
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+AlertsBackground
+  rotate: false
+  xy: 1724, 591
+  size: 100, 100
+  split: 12, 12, 10, 11
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TextFieldBack
+  rotate: false
+  xy: 1825, 1809
+  size: 50, 50
+  split: 4, 4, 5, 7
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+DeleteDown
+  rotate: false
+  xy: 1877, 1759
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DeleteOver
+  rotate: false
+  xy: 1621, 519
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DeleteUp
+  rotate: false
+  xy: 1723, 489
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DialogBack
+  rotate: false
+  xy: 1826, 753
+  size: 100, 100
+  split: 16, 13, 12, 14
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+FasterIcon
+  rotate: false
+  xy: 1826, 651
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+FloatingCash
+  rotate: false
+  xy: 1826, 549
+  size: 100, 100
+  split: 11, 10, 11, 12
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+FloatingCoins
+  rotate: false
+  xy: 1825, 447
+  size: 100, 100
+  split: 12, 12, 10, 11
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+FloatingStash
+  rotate: false
+  xy: 1928, 753
+  size: 100, 100
+  split: 12, 12, 10, 11
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+FloatingXP
+  rotate: false
+  xy: 1928, 651
+  size: 100, 100
+  split: 12, 12, 10, 12
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ObjectiveWindow
+  rotate: false
+  xy: 1928, 549
+  size: 100, 100
+  split: 12, 13, 11, 11
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+SettingsDisabled
+  rotate: false
+  xy: 1927, 447
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+SettingsDown
+  rotate: false
+  xy: 1477, 469
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+DeleteDisabled
+  rotate: false
+  xy: 1477, 373
+  size: 94, 94
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+SettingsOver
+  rotate: false
+  xy: 1488, 271
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+SettingsUp
+  rotate: false
+  xy: 1891, 1657
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+SliderKnob
+  rotate: false
+  xy: 1891, 1585
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+HeaderBack
+  rotate: false
+  xy: 1505, 1734
+  size: 64, 64
+  split: 10, 11, 9, 9
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+SkipIcon
+  rotate: false
+  xy: 560, 66
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+RelocateArrow
+  rotate: false
+  xy: 586, 168
+  size: 91, 81
+  orig: 100, 100
+  offset: 4, 8
+  index: -1
+CashIcon
+  rotate: false
+  xy: 1246, 479
+  size: 45, 74
+  orig: 100, 100
+  offset: 9, 11
+  index: -1
+ButtonDisabled
+  rotate: false
+  xy: 1579, 533
+  size: 40, 40
+  split: 12, 12, 12, 12
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ProgressBack
+  rotate: false
+  xy: 560, 4
+  size: 60, 60
+  split: 7, 7, 7, 7
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+ProgressBack2
+  rotate: false
+  xy: 1979, 1802
+  size: 60, 60
+  split: 7, 7, 7, 7
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+BackIcon
+  rotate: false
+  xy: 1488, 187
+  size: 91, 82
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+DiscountIcon
+  rotate: false
+  xy: 662, 76
+  size: 91, 90
+  orig: 100, 100
+  offset: 4, 5
+  index: -1
+CheckBoxOff
+  rotate: false
+  xy: 1538, 2010
+  size: 33, 32
+  orig: 60, 60
+  offset: 9, 6
+  index: -1
+CheckBoxOffDisabled
+  rotate: false
+  xy: 1791, 821
+  size: 33, 32
+  orig: 60, 60
+  offset: 9, 6
+  index: -1
+ProgressBar
+  rotate: false
+  xy: 622, 4
+  size: 60, 60
+  split: 4, 3, 7, 7
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+RelocateCasing
+  rotate: false
+  xy: 684, 3
+  size: 76, 71
+  orig: 100, 100
+  offset: 13, 14
+  index: -1
+ButtonDown
+  rotate: false
+  xy: 1579, 491
+  size: 40, 40
+  split: 12, 12, 12, 12
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+StarDown
+  rotate: false
+  xy: 1963, 1595
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+StarUp
+  rotate: false
+  xy: 1621, 457
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+ButtonOver
+  rotate: false
+  xy: 1579, 449
+  size: 40, 40
+  split: 12, 12, 12, 12
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+CheckBoxOn
+  rotate: false
+  xy: 1573, 396
+  size: 45, 51
+  orig: 60, 60
+  offset: 9, 6
+  index: -1
+ButtonUp
+  rotate: false
+  xy: 1, 1
+  size: 40, 40
+  split: 12, 12, 12, 12
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+LabelRight
+  rotate: false
+  xy: 1979, 1760
+  size: 40, 40
+  split: 4, 9, 9, 9
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+CheckBoxOnDisabled
+  rotate: false
+  xy: 1993, 1707
+  size: 45, 51
+  orig: 60, 60
+  offset: 9, 6
+  index: -1
+HelpBack
+  rotate: false
+  xy: 762, 497
+  size: 30, 30
+  split: 10, 10, 10, 10
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+SelectMarkDown
+  rotate: false
+  xy: 728, 314
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+SelectMarkUp
+  rotate: false
+  xy: 1683, 487
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ClearDisabled
+  rotate: false
+  xy: 43, 12
+  size: 29, 29
+  split: 10, 9, 10, 9
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+ClearDown
+  rotate: false
+  xy: 1993, 1676
+  size: 29, 29
+  split: 10, 9, 10, 9
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+ClearOver
+  rotate: false
+  xy: 762, 466
+  size: 29, 29
+  split: 10, 9, 10, 9
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+ClearUp
+  rotate: false
+  xy: 74, 12
+  size: 29, 29
+  split: 10, 9, 10, 9
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+LabelBack
+  rotate: false
+  xy: 105, 12
+  size: 29, 29
+  split: 10, 9, 10, 9
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+MinusSmall
+  rotate: false
+  xy: 1683, 457
+  size: 29, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+PlusSmall
+  rotate: false
+  xy: 136, 13
+  size: 29, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+ScrollPaneKnob
+  rotate: false
+  xy: 185, 392
+  size: 16, 16
+  split: 5, 5, 4, 4
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ResourceUp
+  rotate: false
+  xy: 1398, 955
+  size: 20, 20
+  split: 5, 5, 5, 5
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ScrollBar
+  rotate: false
+  xy: 386, 605
+  size: 6, 16
+  orig: 16, 16
+  offset: 5, 0
+  index: -1
+ButtonSpacer
+  rotate: false
+  xy: 662, 69
+  size: 20, 5
+  split: 4, 4, 2, 2
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+HUDdisabled
+  rotate: false
+  xy: 1063, 438
+  size: 10, 10
+  split: 3, 3, 3, 3
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+HUDdown
+  rotate: false
+  xy: 1389, 1229
+  size: 10, 10
+  split: 3, 3, 3, 3
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+HUDover
+  rotate: false
+  xy: 1075, 438
+  size: 10, 10
+  split: 3, 3, 3, 3
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+HUDup
+  rotate: false
+  xy: 1389, 1217
+  size: 10, 10
+  split: 3, 3, 3, 3
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+TextFieldSelection
+  rotate: false
+  xy: 1087, 438
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+TextFieldCursor
+  rotate: false
+  xy: 1573, 457
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+ProgressBarOrange
+  rotate: false
+  xy: 386, 519
+  size: 8, 8
+  split: 3, 3, 3, 3
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

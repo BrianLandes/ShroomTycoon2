@@ -1,0 +1,815 @@
+
+jars.png
+format: RGBA8888
+filter: MipMapNearestLinear,Nearest
+repeat: none
+JarFront
+  rotate: false
+  xy: 0, 1543
+  size: 280, 504
+  orig: 285, 512
+  offset: 2, 6
+  index: -1
+JarBack
+  rotate: false
+  xy: 0, 1215
+  size: 267, 326
+  orig: 285, 512
+  offset: 9, 12
+  index: -1
+MoldA
+  rotate: false
+  xy: 0, 888
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+MoldB
+  rotate: false
+  xy: 0, 561
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+MoldC
+  rotate: false
+  xy: 0, 234
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+MoldG
+  rotate: false
+  xy: 0, 234
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+MoldH
+  rotate: false
+  xy: 0, 234
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+MoldD
+  rotate: false
+  xy: 0, 7
+  size: 201, 225
+  orig: 285, 512
+  offset: 52, 61
+  index: 2
+MoldH
+  rotate: false
+  xy: 201, 7
+  size: 175, 225
+  orig: 285, 512
+  offset: 49, 66
+  index: 2
+MoldD
+  rotate: false
+  xy: 266, 888
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+MoldE
+  rotate: false
+  xy: 267, 1216
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 7
+MoldE
+  rotate: false
+  xy: 280, 1722
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+ContA
+  rotate: false
+  xy: 280, 1549
+  size: 95, 171
+  orig: 285, 512
+  offset: 59, 101
+  index: 7
+MoldE
+  rotate: false
+  xy: 375, 1550
+  size: 148, 170
+  orig: 285, 512
+  offset: 19, 74
+  index: 1
+MoldB
+  rotate: false
+  xy: 523, 1552
+  size: 168, 168
+  orig: 285, 512
+  offset: 11, 16
+  index: 4
+MoldF
+  rotate: false
+  xy: 546, 1722
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 5
+MoldA
+  rotate: false
+  xy: 523, 1543
+  size: 6, 7
+  orig: 285, 512
+  offset: 123, 166
+  index: 1
+MoldB
+  rotate: false
+  xy: 529, 1543
+  size: 5, 7
+  orig: 285, 512
+  offset: 33, 39
+  index: 1
+MoldF
+  rotate: false
+  xy: 266, 561
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 6
+MoldF
+  rotate: false
+  xy: 266, 234
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 7
+MoldB
+  rotate: false
+  xy: 376, 15
+  size: 216, 217
+  orig: 285, 512
+  offset: 10, 13
+  index: 5
+MoldJ
+  rotate: false
+  xy: 376, 1
+  size: 10, 12
+  orig: 285, 512
+  offset: 10, 160
+  index: 1
+MoldG
+  rotate: false
+  xy: 386, 3
+  size: 9, 10
+  orig: 285, 512
+  offset: 163, 326
+  index: 1
+MoldC
+  rotate: false
+  xy: 395, 4
+  size: 5, 9
+  orig: 285, 512
+  offset: 269, 178
+  index: 1
+ContC
+  rotate: false
+  xy: 400, 5
+  size: 9, 8
+  orig: 285, 512
+  offset: 174, 323
+  index: 2
+MoldF
+  rotate: false
+  xy: 532, 889
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+MoldH
+  rotate: false
+  xy: 533, 1216
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 6
+MoldA
+  rotate: false
+  xy: 691, 1564
+  size: 129, 156
+  orig: 285, 512
+  offset: 69, 94
+  index: 4
+MoldH
+  rotate: false
+  xy: 812, 1722
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 7
+ContA
+  rotate: false
+  xy: 691, 1548
+  size: 9, 14
+  orig: 285, 512
+  offset: 102, 208
+  index: 2
+ContB
+  rotate: false
+  xy: 700, 1549
+  size: 20, 13
+  orig: 285, 512
+  offset: 226, 26
+  index: 3
+MoldJ
+  rotate: false
+  xy: 532, 562
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+MoldK
+  rotate: false
+  xy: 532, 235
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 7
+MoldA
+  rotate: false
+  xy: 592, 26
+  size: 171, 207
+  orig: 285, 512
+  offset: 50, 70
+  index: 5
+MoldE
+  rotate: false
+  xy: 763, 27
+  size: 172, 206
+  orig: 285, 512
+  offset: 15, 62
+  index: 2
+MoldK
+  rotate: false
+  xy: 798, 889
+  size: 266, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+MoldJ
+  rotate: false
+  xy: 799, 1237
+  size: 264, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 7
+MoldK
+  rotate: false
+  xy: 820, 1575
+  size: 111, 145
+  orig: 285, 512
+  offset: 82, 13
+  index: 2
+MoldI
+  rotate: false
+  xy: 931, 1577
+  size: 147, 143
+  orig: 285, 512
+  offset: 10, 191
+  index: 3
+MoldK
+  rotate: false
+  xy: 1063, 1250
+  size: 264, 325
+  orig: 285, 512
+  offset: 12, 13
+  index: 6
+ContC
+  rotate: false
+  xy: 1063, 1218
+  size: 31, 30
+  orig: 285, 512
+  offset: 161, 305
+  index: 3
+MoldK
+  rotate: false
+  xy: 1078, 1722
+  size: 254, 325
+  orig: 285, 512
+  offset: 21, 13
+  index: 5
+ContA
+  rotate: false
+  xy: 1078, 1580
+  size: 79, 140
+  orig: 285, 512
+  offset: 67, 122
+  index: 6
+ContB
+  rotate: false
+  xy: 1157, 1582
+  size: 237, 138
+  orig: 285, 512
+  offset: 39, 13
+  index: 8
+MoldJ
+  rotate: false
+  xy: 1332, 1722
+  size: 235, 325
+  orig: 285, 512
+  offset: 10, 13
+  index: 6
+MoldF
+  rotate: false
+  xy: 1567, 1723
+  size: 266, 324
+  orig: 285, 512
+  offset: 10, 13
+  index: 4
+MoldE
+  rotate: false
+  xy: 1833, 1771
+  size: 213, 276
+  orig: 285, 512
+  offset: 14, 40
+  index: 4
+MoldA
+  rotate: false
+  xy: 1833, 1513
+  size: 212, 256
+  orig: 285, 512
+  offset: 32, 47
+  index: 6
+MoldI
+  rotate: false
+  xy: 1567, 1397
+  size: 266, 324
+  orig: 285, 512
+  offset: 10, 13
+  index: 7
+MoldD
+  rotate: false
+  xy: 1394, 1522
+  size: 170, 198
+  orig: 285, 512
+  offset: 72, 72
+  index: 1
+MoldB
+  rotate: false
+  xy: 1327, 1510
+  size: 67, 70
+  orig: 285, 512
+  offset: 19, 23
+  index: 2
+MoldG
+  rotate: false
+  xy: 1833, 1246
+  size: 211, 265
+  orig: 285, 512
+  offset: 54, 73
+  index: 5
+MoldE
+  rotate: false
+  xy: 1327, 1199
+  size: 234, 309
+  orig: 285, 512
+  offset: 13, 29
+  index: 5
+MoldB
+  rotate: false
+  xy: 1064, 954
+  size: 263, 262
+  orig: 285, 512
+  offset: 10, 13
+  index: 6
+MoldI
+  rotate: false
+  xy: 1561, 1071
+  size: 266, 324
+  orig: 285, 512
+  offset: 10, 13
+  index: 8
+MoldD
+  rotate: false
+  xy: 1327, 945
+  size: 231, 252
+  orig: 285, 512
+  offset: 33, 49
+  index: 3
+MoldD
+  rotate: false
+  xy: 1064, 674
+  size: 260, 278
+  orig: 285, 512
+  offset: 13, 38
+  index: 4
+MoldD
+  rotate: false
+  xy: 798, 564
+  size: 266, 323
+  orig: 285, 512
+  offset: 10, 15
+  index: 7
+MoldG
+  rotate: false
+  xy: 798, 239
+  size: 266, 323
+  orig: 285, 512
+  offset: 10, 15
+  index: 7
+MoldC
+  rotate: false
+  xy: 1827, 1001
+  size: 203, 243
+  orig: 285, 512
+  offset: 73, 75
+  index: 5
+MoldH
+  rotate: false
+  xy: 1558, 746
+  size: 266, 323
+  orig: 285, 512
+  offset: 10, 15
+  index: 5
+MoldH
+  rotate: false
+  xy: 1824, 735
+  size: 224, 264
+  orig: 285, 512
+  offset: 22, 48
+  index: 3
+MoldI
+  rotate: false
+  xy: 1324, 699
+  size: 226, 244
+  orig: 285, 512
+  offset: 10, 92
+  index: 5
+MoldF
+  rotate: false
+  xy: 1550, 422
+  size: 266, 322
+  orig: 285, 512
+  offset: 10, 13
+  index: 3
+ContB
+  rotate: false
+  xy: 1324, 581
+  size: 199, 116
+  orig: 285, 512
+  offset: 76, 13
+  index: 7
+ContA
+  rotate: false
+  xy: 1523, 651
+  size: 25, 46
+  orig: 285, 512
+  offset: 94, 186
+  index: 3
+MoldH
+  rotate: false
+  xy: 1064, 371
+  size: 257, 301
+  orig: 285, 512
+  offset: 11, 29
+  index: 4
+MoldI
+  rotate: false
+  xy: 1523, 612
+  size: 23, 37
+  orig: 285, 512
+  offset: 55, 290
+  index: 1
+MoldG
+  rotate: false
+  xy: 935, 35
+  size: 160, 202
+  orig: 285, 512
+  offset: 81, 136
+  index: 4
+MoldC
+  rotate: false
+  xy: 1064, 243
+  size: 105, 126
+  orig: 285, 512
+  offset: 171, 127
+  index: 3
+ContD
+  rotate: false
+  xy: 1095, 3
+  size: 266, 238
+  orig: 285, 512
+  offset: 10, 85
+  index: 5
+ContC
+  rotate: false
+  xy: 1169, 244
+  size: 135, 125
+  orig: 285, 512
+  offset: 101, 213
+  index: 8
+MoldI
+  rotate: false
+  xy: 1361, 384
+  size: 187, 195
+  orig: 285, 512
+  offset: 10, 141
+  index: 4
+MoldG
+  rotate: false
+  xy: 1321, 244
+  size: 109, 138
+  orig: 285, 512
+  offset: 109, 200
+  index: 3
+MoldE
+  rotate: false
+  xy: 1361, 1
+  size: 193, 241
+  orig: 285, 512
+  offset: 14, 51
+  index: 3
+MoldK
+  rotate: false
+  xy: 1321, 534
+  size: 29, 45
+  orig: 285, 512
+  offset: 117, 13
+  index: 1
+MoldB
+  rotate: false
+  xy: 1430, 263
+  size: 119, 119
+  orig: 285, 512
+  offset: 14, 19
+  index: 3
+MoldJ
+  rotate: false
+  xy: 1816, 411
+  size: 190, 322
+  orig: 285, 512
+  offset: 10, 16
+  index: 5
+ContD
+  rotate: false
+  xy: 1549, 373
+  size: 266, 47
+  orig: 285, 512
+  offset: 10, 273
+  index: 4
+ContA
+  rotate: false
+  xy: 1549, 263
+  size: 61, 108
+  orig: 285, 512
+  offset: 76, 144
+  index: 5
+MoldK
+  rotate: false
+  xy: 1554, 15
+  size: 190, 246
+  orig: 285, 512
+  offset: 49, 13
+  index: 3
+ContC
+  rotate: false
+  xy: 1610, 264
+  size: 114, 107
+  orig: 285, 512
+  offset: 113, 231
+  index: 7
+MoldA
+  rotate: false
+  xy: 1724, 265
+  size: 88, 106
+  orig: 285, 512
+  offset: 87, 118
+  index: 3
+ContA
+  rotate: false
+  xy: 1744, 61
+  size: 113, 202
+  orig: 285, 512
+  offset: 50, 80
+  index: 8
+MoldA
+  rotate: false
+  xy: 1744, 3
+  size: 47, 56
+  orig: 285, 512
+  offset: 105, 142
+  index: 2
+ContC
+  rotate: false
+  xy: 1791, 10
+  size: 52, 49
+  orig: 285, 512
+  offset: 149, 287
+  index: 4
+ContB
+  rotate: false
+  xy: 1812, 278
+  size: 158, 93
+  orig: 285, 512
+  offset: 113, 13
+  index: 6
+ContC
+  rotate: false
+  xy: 1970, 341
+  size: 73, 68
+  orig: 285, 512
+  offset: 137, 268
+  index: 5
+MoldJ
+  rotate: false
+  xy: 1857, 10
+  size: 55, 266
+  orig: 285, 512
+  offset: 10, 47
+  index: 2
+MoldH
+  rotate: false
+  xy: 1912, 91
+  size: 126, 185
+  orig: 285, 512
+  offset: 76, 85
+  index: 1
+ContC
+  rotate: false
+  xy: 1912, 1
+  size: 94, 88
+  orig: 285, 512
+  offset: 125, 250
+  index: 6
+ContB
+  rotate: false
+  xy: 1970, 297
+  size: 67, 42
+  orig: 285, 512
+  offset: 188, 20
+  index: 4
+
+jars2.png
+format: RGBA8888
+filter: MipMapNearestLinear,Nearest
+repeat: none
+MoldD
+  rotate: false
+  xy: 0, 656
+  size: 266, 321
+  orig: 285, 512
+  offset: 10, 17
+  index: 6
+MoldF
+  rotate: false
+  xy: 0, 333
+  size: 266, 321
+  orig: 285, 512
+  offset: 10, 13
+  index: 2
+ContD
+  rotate: false
+  xy: 266, 657
+  size: 266, 320
+  orig: 285, 512
+  offset: 10, 14
+  index: 8
+ContD
+  rotate: false
+  xy: 0, 12
+  size: 266, 319
+  orig: 285, 512
+  offset: 10, 15
+  index: 7
+MoldC
+  rotate: false
+  xy: 266, 341
+  size: 265, 314
+  orig: 285, 512
+  offset: 11, 24
+  index: 7
+MoldE
+  rotate: false
+  xy: 532, 657
+  size: 255, 320
+  orig: 285, 512
+  offset: 11, 18
+  index: 6
+MoldB
+  rotate: false
+  xy: 787, 669
+  size: 266, 308
+  orig: 285, 512
+  offset: 10, 13
+  index: 7
+ContD
+  rotate: false
+  xy: 1053, 672
+  size: 266, 305
+  orig: 285, 512
+  offset: 10, 19
+  index: 6
+MoldD
+  rotate: false
+  xy: 266, 35
+  size: 265, 304
+  orig: 285, 512
+  offset: 11, 27
+  index: 5
+MoldK
+  rotate: false
+  xy: 531, 332
+  size: 243, 323
+  orig: 285, 512
+  offset: 30, 13
+  index: 4
+MoldI
+  rotate: false
+  xy: 1319, 682
+  size: 266, 295
+  orig: 285, 512
+  offset: 10, 42
+  index: 6
+MoldA
+  rotate: false
+  xy: 1585, 671
+  size: 253, 306
+  orig: 285, 512
+  offset: 14, 23
+  index: 7
+MoldG
+  rotate: false
+  xy: 531, 17
+  size: 249, 313
+  orig: 285, 512
+  offset: 27, 25
+  index: 6
+MoldF
+  rotate: false
+  xy: 1838, 671
+  size: 155, 306
+  orig: 285, 512
+  offset: 10, 13
+  index: 1
+MoldJ
+  rotate: false
+  xy: 774, 351
+  size: 145, 304
+  orig: 285, 512
+  offset: 10, 25
+  index: 4
+MoldC
+  rotate: false
+  xy: 919, 378
+  size: 252, 289
+  orig: 285, 512
+  offset: 24, 49
+  index: 6
+MoldJ
+  rotate: false
+  xy: 1171, 381
+  size: 100, 289
+  orig: 285, 512
+  offset: 10, 34
+  index: 3
+MoldC
+  rotate: false
+  xy: 780, 164
+  size: 154, 185
+  orig: 285, 512
+  offset: 122, 101
+  index: 4
+ContB
+  rotate: false
+  xy: 780, 93
+  size: 112, 69
+  orig: 285, 512
+  offset: 151, 15
+  index: 5
+MoldI
+  rotate: false
+  xy: 780, 1
+  size: 88, 90
+  orig: 285, 512
+  offset: 29, 241
+  index: 2
+MoldG
+  rotate: false
+  xy: 1271, 597
+  size: 59, 73
+  orig: 285, 512
+  offset: 136, 263
+  index: 2
+MoldC
+  rotate: false
+  xy: 1271, 527
+  size: 56, 68
+  orig: 285, 512
+  offset: 220, 152
+  index: 2
+ContA
+  rotate: false
+  xy: 1993, 900
+  size: 43, 77
+  orig: 285, 512
+  offset: 85, 165
+  index: 4
